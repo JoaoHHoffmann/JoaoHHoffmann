@@ -1,7 +1,7 @@
-# 👋 Olá, eu sou o João!
+# 👋 Olá, eu sou o João Hoffmann!
 
 🎓 Estudante de Engenharia de Software  
-💼 Atuo como estagiário na área de crédito  
+💼 Atuo como estagiário de dados no Banco Bradesco  
 🚀 Apaixonado por tecnologia e dados  
 
 ---
