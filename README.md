@@ -29,8 +29,6 @@
 
 ## 📈 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoHHoffmann&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHHoffmannR&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHHoffmann&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=JoaoHHoffmann&theme=radical)
