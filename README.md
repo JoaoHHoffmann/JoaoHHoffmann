@@ -77,9 +77,7 @@ print(eu)
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoHHoffmann&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=a78bfa"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHHoffmann&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff"/>
 
 </div>
 
@@ -113,7 +111,7 @@ print(eu)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/JoaoHHoffmann)
 [![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/JoaoHHoffmann)
-[![Gmail](https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:joaohhoffmann16@gmail.com)
 
 </div>
 
